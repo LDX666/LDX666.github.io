@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2023/06/07/hello-world/</url>
+    <url>/LDX666/LDX666.github.io/2023/06/07/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -24,7 +24,7 @@
   </entry>
   <entry>
     <title>重拾 C++</title>
-    <url>/2023/06/07/%E9%87%8D%E6%8B%BEC++/</url>
+    <url>/LDX666/LDX666.github.io/2023/06/07/%E9%87%8D%E6%8B%BEC++/</url>
     <content><![CDATA[<h2 id="VS-2022-快捷键"><a href="#VS-2022-快捷键" class="headerlink" title="VS 2022 快捷键"></a>VS 2022 快捷键</h2><ul>
 <li><p><strong>Ctrl+D</strong>：快速复制当前行到下一行</p>
 </li>
@@ -114,7 +114,7 @@
   </entry>
   <entry>
     <title>以向日葵之名 道最后的告别......</title>
-    <url>/2023/06/07/%E8%8A%B1%E5%8D%89/</url>
+    <url>/LDX666/LDX666.github.io/2023/06/07/%E8%8A%B1%E5%8D%89/</url>
     <content><![CDATA[<h1 id="向日葵"><a href="#向日葵" class="headerlink" title="向日葵"></a>向日葵</h1><p><strong>草本植物</strong> / 维基百科，自由的 百科全书</p>
 <p><a href="https://www.wikiwand.com/zh-hans/%E6%9E%9C%E5%AE%9E">果实</a> <a href="https://www.wikiwand.com/zh-hans/%E8%8F%8A%E7%A7%91">菊科</a> <a href="https://www.wikiwand.com/zh-hans/%E8%8A%B1%E5%BA%8F">花序</a></p>
 <p> <strong>向日葵</strong> （<a href="https://www.wikiwand.com/zh-hans/%E5%AD%A6%E5%90%8D" title="学名">学名</a>：<em>Helianthus annuus</em>）是<a href="https://www.wikiwand.com/zh-hans/%E8%8F%8A%E7%A7%91" title="菊科">菊科</a><a href="https://www.wikiwand.com/zh-hans/%E5%90%91%E6%97%A5%E8%91%B5%E5%B1%9E" title="向日葵属">向日葵属</a>的植物。别名 <strong>太阳花</strong> 、 <strong>朝阳花</strong> 、 <strong>日头花</strong> （<a href="https://www.wikiwand.com/zh-hans/%E5%8F%B0%E6%B9%BE%E8%AF%9D" title="台湾话">台湾话</a>：）<a href="https://www.wikiwand.com/zh-hans/%E5%90%91%E6%97%A5%E8%91%B5#cite_note-3"></a>，一般称向日葵。因<a href="https://www.wikiwand.com/zh-hans/%E8%8A%B1%E5%BA%8F" title="花序">花序</a>随太阳转动（太阳花）而得名。</p>
@@ -195,7 +195,7 @@
   </entry>
   <entry>
     <title>Hexo-Next主题配置教程</title>
-    <url>/2023/06/07/Hexo-Next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</url>
+    <url>/LDX666/LDX666.github.io/2023/06/07/Hexo-Next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<h2 id="个人博客"><a href="#个人博客" class="headerlink" title="个人博客"></a>个人博客</h2><p>网页预览：<a href="https://benn314.github.io/">https://benn314.github.io/</a></p>
 <p><img data-src="https://tva1.sinaimg.cn/large/008beOx9gy1h8f2cw85j3j31z410f1dx.jpg" alt="image-20221122180842537.png"></p>
 <p>Hexo-Next 是一款我很喜欢的主题，布局简约，很适合用于搭配 live-2d 和 网格动画，打造属于自己的个人博客。博客目前部署于 <code>Github Pages</code></p>
@@ -725,7 +725,7 @@
   </entry>
   <entry>
     <title>C++ 提高编程</title>
-    <url>/2023/06/07/C++%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B/</url>
+    <url>/LDX666/LDX666.github.io/2023/06/07/C++%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B/</url>
     <content><![CDATA[<h1 id="C-提高编程"><a href="#C-提高编程" class="headerlink" title="C++提高编程"></a>C++提高编程</h1><ul>
 <li>本阶段主要针对C++==泛型编程==和==STL==技术做详细讲解，探讨C++更深层的使用</li>
 </ul>
